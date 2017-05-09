@@ -17,6 +17,9 @@
 #### Books
 1. [Deep Learning](http://www.deeplearningbook.org/) :heart:
 
+#### Papers
+1. [Most cited deep Learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+
 #### Deep Learning Frameworks
 1. [PyTorch](http://pytorch.org/) :heart:
 1. [TensorFlow](https://www.tensorflow.org/)
